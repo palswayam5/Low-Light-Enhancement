@@ -4,12 +4,12 @@
 This repository contains the implementation of a Zero-DCE (Zero-Reference Deep Curve Estimation) model for image enhancement using TensorFlow/Keras. The Zero-DCE model aims to enhance low-light images by improving color constancy, exposure, and illumination smoothness.
 
 # Requirements
-Python 3.x
-TensorFlow 2.x
-Keras
-NumPy
-Matplotlib
-PIL (Python Imaging Library)
+1. Python 3.x
+2. TensorFlow 2.x
+3. Keras
+4. NumPy
+5. Matplotlib
+6. PIL (Python Imaging Library)
 
 # Dataset
 [Here](https://www.kaggle.com/datasets/soumikrakshit/lol-dataset)
