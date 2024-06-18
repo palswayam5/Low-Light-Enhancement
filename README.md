@@ -26,6 +26,6 @@ Several custom loss functions are implemented to optimize the model:
 3. Illumination Smoothness Loss (illumination_smoothness_loss): Ensures smoothness of illumination in enhanced images.
 
 # Results
-PSNR Value on the unseen dataset images - 27.8 (Approximately)
+PSNR Value on the unseen dataset images - 28 (Approximately)
 
    
