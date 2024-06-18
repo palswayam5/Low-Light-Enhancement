@@ -14,6 +14,9 @@ This repository contains the implementation of a Zero-DCE (Zero-Reference Deep C
 # Dataset
 [Here](https://www.kaggle.com/datasets/soumikrakshit/lol-dataset)
 
+# Research Paper
+[Here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Zero-Reference_Deep_Curve_Estimation_for_Low-Light_Image_Enhancement_CVPR_2020_paper.pdf)
+
 # Model Architecture
 Implemented as a class Build_DCE_NET() in ZERO_DCE.ipynb file.
 ![image](https://github.com/palswayam5/Low-Light-Enhancement/assets/97727708/6cb69ead-ffae-4627-8c3b-4d65d13fdc6c)
