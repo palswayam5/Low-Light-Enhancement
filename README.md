@@ -14,7 +14,7 @@ This repository contains the implementation of a Zero-DCE (Zero-Reference Deep C
 # Dataset
 [Here](https://www.kaggle.com/datasets/soumikrakshit/lol-dataset)
 
-# Research Paper
+# Research Paper Implemented
 [Here](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Zero-Reference_Deep_Curve_Estimation_for_Low-Light_Image_Enhancement_CVPR_2020_paper.pdf)
 
 # Model Architecture
